@@ -115,11 +115,6 @@
                     <a href="https://kprofiles.com/twice-members-profile/" class="btn btn-primary">Read More</a>
                     <p>            </p>
                     <a class="btn btn-primary btn-lg" href="https://en.wikipedia.org/wiki/Twice" role="button">Learn more</a>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
 <footer>
     <h3>&copy; 2024 K-pop Blog. All rights reserved.</h3>
 </footer>
@@ -127,5 +122,3 @@
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-</body>
-</html>
