@@ -115,6 +115,7 @@
                     <a href="https://kprofiles.com/twice-members-profile/" class="btn btn-primary">Read More</a>
                     <p>            </p>
                     <a class="btn btn-primary btn-lg" href="https://en.wikipedia.org/wiki/Twice" role="button">Learn more</a>
+                    
 <footer>
     <h3>&copy; 2024 K-pop Blog. All rights reserved.</h3>
 </footer>
